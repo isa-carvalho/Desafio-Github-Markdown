@@ -19,5 +19,5 @@ O objetivo do projeto é práticar as funcionalidades, memorizar e aprimorar con
 git clone https://github.com/danncastro/danncastro.git
 
 
-
-![gif mario](https://media.tenor.com/rFYtETFUBMUAAAAj/mario-bros.gif) # Até breve !!!
+# Até breve!!!
+![gif mario](https://media.tenor.com/rFYtETFUBMUAAAAj/mario-bros.gif)
