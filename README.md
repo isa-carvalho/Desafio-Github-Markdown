@@ -17,3 +17,5 @@ O objetivo do projeto é práticar as funcionalidades, memorizar e aprimorar con
 |Utilizar algum método de Segurança do Git |       OK   | 
 
 git clone https://github.com/danncastro/sh-zabbix-automation-api.git
+
+![gif mario](https://media.tenor.com/rFYtETFUBMUAAAAj/mario-bros.gif)
